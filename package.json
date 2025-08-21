@@ -26,19 +26,15 @@
     "e2e-testing",
     "page-object-model"
   ],
-  "author": {
-    "name": "Quality Engineering Team",
-    "email": "qe-team@company.com"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/debs-obrien/generate-test-with-copilot.git"
+    "url": "https://github.com/juniorschmitz/mcp-playwright-examples.git"
   },
   "bugs": {
-    "url": "https://github.com/debs-obrien/generate-test-with-copilot/issues"
+    "url": "https://github.com/juniorschmitz/mcp-playwright-examples/issues"
   },
-  "homepage": "https://github.com/debs-obrien/generate-test-with-copilot#readme",
+  "homepage": "https://github.com/juniorschmitz/mcp-playwright-examples#readme",
   "engines": {
     "node": ">=18.0.0"
   },
