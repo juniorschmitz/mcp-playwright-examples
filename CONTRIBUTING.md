@@ -5,7 +5,6 @@ Obrigado por seu interesse em contribuir! Este projeto demonstra o uso do MCP Pl
 ## 🚀 Como Contribuir
 
 ### 1. Reportar Bugs
-- Use o [GitHub Issues](https://github.com/debs-obrien/generate-test-with-copilot/issues)
 - Inclua detalhes do ambiente (OS, Node.js version, Playwright version)
 - Forneça passos para reproduzir o problema
 
@@ -19,7 +18,7 @@ Obrigado por seu interesse em contribuir! Este projeto demonstra o uso do MCP Pl
 #### Setup do Ambiente
 ```bash
 # Clone o repositório
-git clone https://github.com/debs-obrien/generate-test-with-copilot.git
+git clone https://github.com/juniorschmitz/mcp-playwright-examples.git
 cd generate-test-with-copilot
 
 # Instale dependências
