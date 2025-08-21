@@ -175,8 +175,6 @@ Verifique se a URL base `https://compassuol.serverest.dev` está acessível.
 
 Para dúvidas sobre a API ServeRest:
 - Consulte a documentação em `ServeRest_API_Documentation.md`
-- Visite o repositório: https://github.com/ServeRest/ServeRest
-- Abra uma issue: https://github.com/ServeRest/ServeRest/issues
 
 ---
 
