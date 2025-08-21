@@ -306,21 +306,6 @@ graph TD
 | `userEmail` | Email para teste de usuário |
 | `userPassword` | Senha para teste de usuário |
 
-## Recursos Adicionais
-
-### Links Úteis
-- **Repositório GitHub**: [ServeRest/ServeRest](https://github.com/ServeRest/ServeRest)
-- **Swagger JSON**: [swagger.json](https://raw.githubusercontent.com/ServeRest/ServeRest/trunk/docs/swagger.json)
-- **Frontend Beta**: [front.serverest.dev](https://front.serverest.dev)
-
-### Contato e Suporte
-- **Autor**: Paulo Gonçalves
-- **LinkedIn**: [paulo-goncalves](https://www.linkedin.com/in/paulo-goncalves/)
-- **Issues**: [GitHub Issues](https://github.com/ServeRest/ServeRest/issues)
-
-## Considerações para Teste de Carga
-Para testes de carga, consulte a documentação específica no repositório GitHub na seção [Teste de Carga](https://github.com/ServeRest/ServeRest#teste-de-carga).
-
 ---
 
 *Esta documentação foi gerada através da análise automatizada do Swagger da API ServeRest utilizando Playwright MCP para navegação e validação end-to-end da documentação.*
